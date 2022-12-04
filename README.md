@@ -11,7 +11,7 @@ Also list of reminders and create reminder disappeared.
 Enter `jimmy123@gmail.com` for the email  
 and `jimmy123!` for the password  
 
-or check out models/userModel.js to try out other user's in the database.  
+or check out models/userModel.js to try out other users in the database.  
 
 ## Author
 
